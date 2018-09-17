@@ -10,13 +10,15 @@
 
 This folder provides an online resource for information that will help teams succeed in the game.  The primary document available here is the CANES ACS developer guide.  Download a copy for HACKtheMACHINE, but please do not distribute further.  It will be updated and changed based off our experience this weekend so stay tuned for the new version!
 
-<p align="center">
-        <a href="https://fathom5.co">
-        <img src="https://static.wixstatic.com/media/3d35e8_2d9eb95a4abe4869afafbf51d29038dc~mv2.png/v1/fill/w_288,h_60,al_c,usm_0.66_1.00_0.01/3d35e8_2d9eb95a4abe4869afafbf51d29038dc~mv2.png" width="150" title="Securing the Digital Future">
-        </a>
-      </td>
-      <td>
+
+  <p align="center">
         <a href="https://boozallen.com">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Booz_Allen_Hamilton_logo.svg/320px-Booz_Allen_Hamilton_logo.svg.png" title="Innovate Forward">
         </a>
   </p>
+<p align="center">
+        <a href="https://fathom5.co">
+        <img src="https://static.wixstatic.com/media/3d35e8_2d9eb95a4abe4869afafbf51d29038dc~mv2.png/v1/fill/w_288,h_60,al_c,usm_0.66_1.00_0.01/3d35e8_2d9eb95a4abe4869afafbf51d29038dc~mv2.png" width="150" title="Securing the Digital Future">
+        </a>
+  </p>
+
