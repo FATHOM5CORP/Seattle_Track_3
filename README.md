@@ -17,6 +17,6 @@ This folder provides an online resource for information that will help teams suc
       </td>
       <td>
         <a href="https://boozallen.com">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Booz_Allen_Hamilton_logo.svg" width="250" title="Innovate Forward">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Booz_Allen_Hamilton_logo.svg/320px-Booz_Allen_Hamilton_logo.svg.png" title="Innovate Forward">
         </a>
   </p>
